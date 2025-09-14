@@ -1,0 +1,7 @@
+*   [33m6d49bfd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'main' of https://github.com/chlwltjd001001-byte/git_test2
+[31m|[m[32m\[m  
+* [32m|[m [33m3250b4c[m Main 메소드 수정
+[32m|[m * [33m76039df[m Hello 클래스에 message 멤버 변수 추가
+[32m|[m[32m/[m  
+* [33mc513e08[m 출력 메시지 수정
+* [33m9b538f2[m 최초 커밋
